@@ -73,7 +73,7 @@ def modify_csv():
     return datam
 
 def create_timing_files(trial_type):
-    """ Create timing files for length N-1(P) reward unevailing to N choice  """
+    """ Create timing files for length N-1(P) reward unveiling to N choice  """
     datam = modify_csv()
     
     #Subset & Filter
